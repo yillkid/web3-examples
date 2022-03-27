@@ -1,4 +1,4 @@
-export const contractAddr = "0xA8FF19C956079126F681B280C1dEFA7D2a82c4a1"
+export const contractAddr = "0x5faF6582Ede7D65362dcF343B42b83B2F3E2E7CF"
 export const erc20Addr    = "0xf0213CC9a24beE62B058B2b5b7283A54484A3B79"
 export const boxPrice     = "0.08";
 export const count        = 1;
