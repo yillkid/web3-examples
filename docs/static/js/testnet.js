@@ -1,5 +1,5 @@
-export const contractAddr = "0xA8FF19C956079126F681B280C1dEFA7D2a82c4a1"
-export const erc20Addr    = "0xf0213CC9a24beE62B058B2b5b7283A54484A3B79"
+export const contractAddr = "0x7c730c9421a42c226a890ddfe5f4d562312b9806"
+export const erc20Addr    = "0x1e219609a856ff127c407cfa5c4cbcec4d56df1b"
 export const boxPrice     = "0.08";
 export const count        = 1;
 export const port         = ":3001";
